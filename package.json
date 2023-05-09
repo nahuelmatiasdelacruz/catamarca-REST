@@ -1,0 +1,20 @@
+{
+  "name": "catamarca-rest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "startdev":"nodemon src/app.js",
+    "start":"node src/app.js"
+  },
+  "author": "Nahuel De La Cruz",
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "express-validator": "^7.0.1",
+    "knex": "^2.4.2"
+  }
+}

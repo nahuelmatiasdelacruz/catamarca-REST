@@ -1,0 +1,12 @@
+:root{
+    /* Colors */
+    --mainColor: #141B41;
+    --secondaryColor: #306BAC;
+    --clearBlue: #6F9CEB;
+    --skyBlue: #98B9F2;
+    --thirdColor: #918EF4;
+
+    /* Fonts */
+    --fontMain: 'Montserrat', sans-serif;
+    --fontSecond: 'Nunito', sans-serif;
+}
